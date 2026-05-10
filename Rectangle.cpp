@@ -14,7 +14,7 @@ Rectangle(float L, float l ){
 }
 // definir methode 
 float surface(){
-    return Largeur*Largeur ;
+    return Largeur*Longueur ;
 }
 
 
